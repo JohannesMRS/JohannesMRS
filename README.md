@@ -28,3 +28,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/snake.svg" alt="Snake animation" />
+
+###
