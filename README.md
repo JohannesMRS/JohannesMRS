@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, I'm Johannes MR Sibarani 👋
+
+![johannes](JohannesSibarani.png)
 
 <!--
 **JohannesMRS/JohannesMRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl3aW5ob3l5YmwwanB0cDVhMnl0MzN2OGJ0eHJoaGRlZzd6eGM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif)
+
+- 🔭 I’m currently studying on Politeknik Negeri Medan
+- 🌱 I’m currently learning PHP
