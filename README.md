@@ -1,6 +1,6 @@
 ## Hello World, I'm Johannes MR Sibarani 👋
 
-![johannes](github-header-banner.png)
+![johannes](jo_banner.png)
 
 <!--
 **JohannesMRS/JohannesMRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
