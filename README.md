@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/main?type=waving&color=011b2a&height=250&section=header&text=Johannes%20Sibarani&fontSize=50&animation=twinkling&theme=dark" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Johannes+Sibara+ni;Student+%7C+Coder+%7C+Human;Anime+and+Tech+Enthusiast" alt="Typing SVG" />
 
 ### 🌌 "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." – Naruto Uzumaki
 
