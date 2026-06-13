@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/main?type=waving&color=0h1b2a&height=250&section=header&text=Johannes%20Sibirani&fontSize=50&animation=twinkling&theme=dark" width="100%" />
+<img src="https://capsule-render.vercel.app/main?type=waving&color=011b2a&height=250&section=header&text=Johannes%20Sibarani&fontSize=50&animation=twinkling&theme=dark" width="100%" />
 
 ### 🌌 "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." – Naruto Uzumaki
 
