@@ -31,26 +31,15 @@ const johannes = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go" />
 </p>
-
-### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
 </p>
-
-### Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
 </p>
-
-### Database & Cloud
-
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,aws" />
 </p>
