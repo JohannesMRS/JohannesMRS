@@ -32,17 +32,9 @@ const johannes = {
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go" />
+  <img src="https://skillicons.dev/icons?i=html, css, js, python, cpp, php, git, github, laravel, tailwind, bootstrap, mysql" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,aws" />
-</p>
+
 
 ---
 
