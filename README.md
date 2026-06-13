@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&lines=Oi!+Selamat+Datang+di+Jagad+Codingan+Ku;Johannes+Sibarani+di+sini+👋;Student+%7C+Backend+Enthusiast+%7C+Human;Lagi+pusing+mikirin+Golang;Tapi+tetap+push+LeetCode+🔥" alt="Typing SVG" />
 
@@ -30,7 +31,7 @@
       📌 <b>Hobi Sampingan:</b> Mentorin adek-adek kelas belajar HTML/CSS/JS dasar sambil nularin racun *clean code*.
     </td>
     <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/Anankke/Anankke/main/images/anime-lofi.gif" width="100%" style="border-radius: 15px; border: 2px solid #00FFCC;" />
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112613149/261917646-609b4db7-1fa5-455b-80a5-f5f4fcae1378.gif" width="100%" style="border-radius: 15px; border: 2px solid #00FFCC;" />
     </td>
   </tr>
 </table>
