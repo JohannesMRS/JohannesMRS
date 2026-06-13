@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Johannes!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+Happiness" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+Happiness" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,6 @@
 const johannes = {
   location: "Indonesia 🇮🇩",
   role: "Developer",
-  currentlyLearning: ["AI", "Cloud", "System Design"],
   hobbies: ["Coding", "Gaming", "Exploring New Tech"],
   lifeGoal: "Build cool things and keep learning."
 };
