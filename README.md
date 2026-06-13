@@ -1,56 +1,68 @@
-## Hello World, I'm Johannes MR Sibarani 👋
+<div align="center">
 
-![johannes](jo_banner.png)
+<img src="https://capsule-render.vercel.app/main?type=waving&color=0h1b2a&height=250&section=header&text=Johannes%20Sibirani&fontSize=50&animation=twinkling&theme=dark" width="100%" />
 
+### 🌌 "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." – Naruto Uzumaki
 
-# 💫 About Me:
-🔭 I’m currently studying on Politeknik Negeri Medan<br>🌱 I’m currently learning Life
+---
 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/jmrs-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jhnssbrn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="sibaranijohannes8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="081266254708" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
 </div>
 
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+## ⛩️ About Me
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <br />
+      🤖 <b>I'm currently studying at:</b> Politeknik Negeri Medan<br />
+      🚀 <b>Main Focus:</b> Backend Development & Building clean architecture<br />
+      🧠 <b>Current Journey:</b> Mastered PHP & Laravel, now deep diving into <b>Golang</b><br />
+      🌱 <b>Life Philosophy:</b> Consistently refactoring my skills daily.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNwaHBlOHI3b3Y5dm55Z3B3N3d5M2I0b3g5amNtcXN6M3Z6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180C7MP9sc9bL607z/giphy.gif" width="180px" />
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack
+
+### ⚡ Languages & Core Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,go,cpp,py" />
+</p>
+
+### 🧰 Tools & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,tailwind,flutter" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Anime Neon Theme)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&border_radius=10" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&border_radius=10" height="150" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohannesMRS&theme=tokyonight&background=0d1117&border_radius=10" width="100%" />
 </div>
 
-###
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JohannesMRS&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JohannesMRS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✨ Play Game With Me
-
-<img src="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JohannesMRS&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" />
+</div>
