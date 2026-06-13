@@ -1,73 +1,117 @@
 <div align="center">
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&lines=Oi!+Selamat+Datang+di+Jagad+Codingan+Ku;Johannes+Sibarani+di+sini+👋;Student+%7C+Backend+Enthusiast+%7C+Human;Lagi+pusing+mikirin+Golang;Tapi+tetap+push+LeetCode+🔥" alt="Typing SVG" />
+# 👋 Hey, I'm Johannes!
 
-### 🌌 "Kalau kamu tidak suka takdirmu, jangan diterima. Lebih baik ganti script-nya sesuai maumu!" – Naruto (Versi Anak IT)
-
----
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+Happiness" alt="Typing SVG" />
 
 </div>
 
-## ⛩️ Status Log // About Me
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <br />
-      🏫 <b>Basecamp:</b> Mahasiswa Manajemen Informatika di Politeknik Negeri Medan.
-      <br /><br />
-      ⚡ <b>Main Quest:</b> Menaklukkan dunia <b>Backend Development</b>. 
-      <br /><br />
-      🧠 <b>Current Skill Tree:</b> Kemarin kelar menjinakkan PHP & Laravel (plus bikin dia konek ke Oracle Database). Sekarang lagi ritual bertapa buat menguasai ilmu <b>Golang</b>.
-      <br /><br />
-      ☕ <b>Bahan Bakar:</b> Kopi hitam, tumpukan *error* di terminal, dan *playlist* lagu Lo-fi Anime pas begadang.
-      <br /><br />
-      📌 <b>Hobi Sampingan:</b> Mentorin adek-adek kelas belajar HTML/CSS/JS dasar sambil nularin racun *clean code*.
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112613149/261917646-609b4db7-1fa5-455b-80a5-f5f4fcae1378.gif" width="100%" style="border-radius: 15px; border: 2px solid #00FFCC;" />
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
 
-## 🛠️ My Arsenal (Tech Stack)
+```javascript
+const johannes = {
+  location: "Indonesia 🇮🇩",
+  role: "Developer",
+  currentlyLearning: ["AI", "Cloud", "System Design"],
+  hobbies: ["Coding", "Gaming", "Exploring New Tech"],
+  lifeGoal: "Build cool things and keep learning."
+};
+```
 
-### ⚔️ Languages & Frameworks Yang Sering Diajak Berantem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,go,cpp,py" />
+### 🧠 Current Status
+
+- 🔭 Building awesome projects
+- 🌱 Learning something new every day
+- 💡 Interested in Web Development, AI, and Open Source
+- ⚡ Fun fact: Most bugs disappear after staring at them for 30 minutes
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go" />
 </p>
 
-### 🛡️ Tools & Databases Yang Menolak Tumbang
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,tailwind,flutter" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
+</p>
+
+### Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,aws" />
 </p>
 
 ---
 
-## 📊 Statistik Tempur (GitHub Stats)
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FFCC&icon_color=ff79c6&text_color=c9d1d9&border_radius=12" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00FFCC&text_color=c9d1d9&border_radius=12" height="150" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohannesMRS&theme=tokyonight&background=0d1117&border_radius=12&ring=00FFCC&fire=00FFCC" width="100%" />
-  
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=JohannesMRS&color=00FFCC&style=flat-square&label=STALKER+YANG+MAMPIR" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JohannesMRS&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/JohannesMRS/JohannesMRS/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Contribute more to Open Source
+- 🤖 Build AI-powered applications
+- ☁️ Master Cloud Technologies
+- 📚 Never stop learning
+
+---
+
+## ☕ Developer Wisdom
+
+> "99% of programming is wondering why it doesn't work.
+>
+> The other 1% is wondering why it suddenly does."
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting!
+
+"Eat • Sleep • Code • Repeat"
+
+<img src="https://komarev.com/ghpvc/?username=JohannesMRS&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 </div>
