@@ -31,9 +31,11 @@ const johannes = {
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html, css, js, python, cpp, php, git, github, laravel, tailwind, bootstrap, mysql" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,tailwind,bootstrap,laravel,mysql,git,vercel" />
 </p>
+
 
 
 ---
