@@ -64,9 +64,10 @@ const johannes = {
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake" />
-</div>
 
+![snake gif](https://github.com/JohannesMRS/JohannesMRS/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
