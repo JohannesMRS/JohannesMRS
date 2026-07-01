@@ -18,26 +18,35 @@ const johannes = {
   lifeGoal: "Build cool things and keep learning."
 };
 ```
+
+### Current Status
+
+- Building awesome projects
+- Learning something new every day
+- Interested in Web Development, AI, and Open Source
+- Fun fact: Most bugs disappear after staring at them for 30 minutes
+
 ---
 
-### **BAGIAN 2 (Tech Stack & Stats)**
-*Salin bagian ini tepat di bawah Bagian 1:*
-
-```markdown
 ## Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,tailwind,bootstrap,laravel,mysql,git,vercel" />
 </p>
 
-```
+
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&hide_border=true" alt="Johannes's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -45,20 +54,19 @@ const johannes = {
 ## GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JohannesMRS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=JohannesMRS&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-
 ## Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake.svg">
-  </picture>
+
+![snake gif](https://github.com/JohannesMRS/JohannesMRS/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
