@@ -49,3 +49,41 @@ const johannes = {
 </div>
 
 ---
+
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JohannesMRS/JohannesMRS/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 2026 Goals
+
+- Contribute more to Open Source
+- Build More Projects 
+
+---
+
+## Developer Wisdom
+
+> "99% of programming is wondering why it doesn't work.
+>
+> The other 1% is wondering why it suddenly does."
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+"Eat • Sleep • Code • Repeat"
+
+<img src="https://komarev.com/ghpvc/?username=JohannesMRS&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
