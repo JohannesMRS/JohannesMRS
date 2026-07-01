@@ -64,8 +64,9 @@ const johannes = {
 ## Contribution Snake
 
 <div align="center">
-  ![snake gif](https://githubusercontent.com)
+  <img src="https://githubusercontent.com" alt="GitHub Snake" />
 </div>
+
 
 ---
 
