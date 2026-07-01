@@ -28,7 +28,7 @@ const johannes = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 <p align="center">
@@ -74,9 +74,7 @@ const johannes = {
 ## 2026 Goals
 
 - Contribute more to Open Source
-- Build AI-powered applications
-- Master Cloud Technologies
-- Never stop learning
+- Build More Projects 
 
 ---
 
