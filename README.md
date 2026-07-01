@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Johannes!
+# Hey, I'm Johannes!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+Happiness" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const johannes = {
@@ -19,12 +19,12 @@ const johannes = {
 };
 ```
 
-### 🧠 Current Status
+### Current Status
 
-- 🔭 Building awesome projects
-- 🌱 Learning something new every day
-- 💡 Interested in Web Development, AI, and Open Source
-- ⚡ Fun fact: Most bugs disappear after staring at them for 30 minutes
+- Building awesome projects
+- Learning something new every day
+- Interested in Web Development, AI, and Open Source
+- Fun fact: Most bugs disappear after staring at them for 30 minutes
 
 ---
 
@@ -39,7 +39,7 @@ const johannes = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -51,7 +51,7 @@ const johannes = {
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -61,7 +61,7 @@ const johannes = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -71,16 +71,16 @@ const johannes = {
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- 🚀 Contribute more to Open Source
-- 🤖 Build AI-powered applications
-- ☁️ Master Cloud Technologies
-- 📚 Never stop learning
+- Contribute more to Open Source
+- Build AI-powered applications
+- Master Cloud Technologies
+- Never stop learning
 
 ---
 
-## ☕ Developer Wisdom
+## Developer Wisdom
 
 > "99% of programming is wondering why it doesn't work.
 >
@@ -90,7 +90,7 @@ const johannes = {
 
 <div align="center">
 
-### 🌟 Thanks for visiting!
+### Thanks for visiting!
 
 "Eat • Sleep • Code • Repeat"
 
