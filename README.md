@@ -1,97 +1,114 @@
 <div align="center">
 
-# Hey, I'm Johannes!
+# Johannes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+Happiness" alt="Typing SVG" />
+### Full Stack Web Developer • Open Source Enthusiast • Indonesia 🇮🇩
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Laravel+%7C+PHP+%7C+JavaScript;Always+Learning+Something+New;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%99" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JohannesMRS&style=for-the-badge&color=3B82F6"/>
+
+<a href="https://github.com/JohannesMRS">
+<img src="https://img.shields.io/github/followers/JohannesMRS?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-```javascript
+```ts
 const johannes = {
-  location: "Indonesia 🇮🇩",
-  role: "Developer",
-  hobbies: ["Coding", "Gaming", "Exploring New Tech"],
-  lifeGoal: "Build cool things and keep learning."
-};
+    location: "Indonesia",
+    role: "Full Stack Developer",
+    focus: [
+        "Laravel",
+        "JavaScript",
+        "PHP",
+        "Modern UI"
+    ],
+    currentlyLearning: [
+        "AI",
+        "Cloud",
+        "System Design"
+    ],
+    lifeGoal: "Build products that people enjoy using."
+}
 ```
 
-### Current Status
-
-- Building awesome projects
-- Learning something new every day
-- Interested in Web Development, AI, and Open Source
-- Fun fact: Most bugs disappear after staring at them for 30 minutes
-
 ---
 
-## Tech Stack
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,tailwind,bootstrap,laravel,mysql,git,vercel" />
-</p>
-
-
-
----
-
-## GitHub Stats
+# Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,tailwind,bootstrap,laravel,mysql,git,github,vercel,vscode&perline=8"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-## GitHub Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JohannesMRS&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JohannesMRS&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+# Current Goals
+
+- 🚀 Build impactful web applications
+- 🌱 Learn AI & Cloud Technologies
+- 🤝 Contribute more to Open Source
+- 📚 Never stop learning
+
+---
+
+# Featured Technologies
+
+| Backend | Frontend | Database | Tools |
+|---------|----------|----------|------|
+| Laravel | HTML | MySQL | Git |
+| PHP | CSS | MariaDB | VSCode |
+| Node.js | JavaScript | SQLite | Vercel |
+| Python | TailwindCSS | Firebase | Linux |
+
+---
+
+# Contribution Graph
 
 <div align="center">
 
-![snake gif](https://github.com/JohannesMRS/JohannesMRS/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/JohannesMRS/JohannesMRS/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 2026 Goals
+# Quote
 
-- Contribute more to Open Source
-- Build More Projects 
-
----
-
-## Developer Wisdom
-
-> "99% of programming is wondering why it doesn't work.
->
-> The other 1% is wondering why it suddenly does."
+> *"Great software isn't written by writing more code, but by writing better code."*
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for stopping by 👋
 
-"Eat • Sleep • Code • Repeat"
-
-<img src="https://komarev.com/ghpvc/?username=JohannesMRS&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+**Eat 🍜 • Sleep 😴 • Code 💻 • Repeat 🔁**
 
 </div>
