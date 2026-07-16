@@ -2,13 +2,9 @@
 
 # Hi, I'm Johannes 👋
 
-Full Stack Web Developer from Indonesia 🇮🇩
+Full Stack Web Developer from Indonesia 
 
 Building modern web applications with Laravel, PHP, and JavaScript.
-
-[Portfolio](https://yourwebsite.com) •
-[LinkedIn](https://linkedin.com/in/yourname) •
-[Email](mailto:your@email.com)
 
 </div>
 
@@ -46,9 +42,9 @@ const johannes = {
 
 ## Current Focus
 
-- 🚀 Building useful web applications
-- 🌱 Learning AI & Cloud
-- 🤝 Open Source Contribution
+- Building useful web applications
+- Learning AI & Cloud
+- Open Source Contribution
 
 ---
 
