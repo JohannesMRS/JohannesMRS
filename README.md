@@ -11,18 +11,18 @@
 ```javascript
 const Alex = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "PHP", "Python", "Node.js", "Express.js", "Linux"],
+    code: ["JavaScript", "PHP", "Python", "Go", "Node.js", "Express.js", "Linux"],
     askMeAbout: ["web development, APIs, developer tools"],
     technologies: {
         frontEnd: {
             Tech: ["HTML", "CSS", "JS", "TailwindCSS", "Bootstrap"]
         },
         backEnd: {
-            Tech: ["JS", "Express.js", "Node.js"]
+            Tech: ["JS", "Express.js", "Node.js", "Gin"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
-    currentFocus: "JS and Express.js",
+    currentFocus: "Golang",
     funFact: "I can move my ears"
 };
 ```
