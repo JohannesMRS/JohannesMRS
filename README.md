@@ -1,44 +1,24 @@
 <div align="center">
 
-# Johannes
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-### Backend Developer
+# Hey, I'm Johannes!
 
-Building scalable APIs, microservices, and robust backend infrastructure.
-
-Based in Indonesia
-
----
-
-### Tech Stack & Tools
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend%20Developer;Based%20in%20Indonesia)](https://git.io/typing-svg)
 
 </div>
 
-### System Architecture & Profile
-
 ```javascript
-const dev = {
-    name: "Johannes",
-    role: "Backend Engineer",
-    location: "Indonesia",
-    coreFocus: ["Backend Systems", "REST & RESTful APIs", "Database Optimization"],
-    stack: {
-        primary: ["Go", "Node.js", "Express.js"],
-        secondary: ["Python", "PHP"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        environment: ["Linux"]
+const Johannes = {
+    pronouns: "He" | "Him",
+    code: ["Go", "Node.js", "Express.js", "Python", "PHP", "Linux"],
+    askMeAbout: ["Backend Architecture", "APIs", "Database Design"],
+    technologies: {
+        backEnd: {
+            Tech: ["Go", "Gin", "Node.js", "Express.js", "Python", "PHP"]
+        },
+        databases: ["PostgreSQL", "MySQL", "MongoDB"]
     },
-    learning: "High-Performance Distributed Systems"
+    currentFocus: "Golang & Distributed Systems",
+    funFact: "I can move my ears"
 };
