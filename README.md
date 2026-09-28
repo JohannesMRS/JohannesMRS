@@ -89,11 +89,15 @@ const johannes = {
 
 ## GitHub Statistics
 
+---
+
+## GitHub Statistics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JohannesMRS&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
 </div>
 
@@ -103,7 +107,7 @@ const johannes = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesMRS&layout=donut&hide_border=true&theme=github_dark&langs_count=8" />
 
 </div>
 
