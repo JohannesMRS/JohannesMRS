@@ -9,7 +9,7 @@
 </div>
 
 ```javascript
-const Alex = {
+const Johannes = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "PHP", "Python", "Go", "Node.js", "Express.js", "Linux"],
     askMeAbout: ["web development, APIs, developer tools"],
