@@ -1,5 +1,3 @@
-<!-- GANTI semua "USERNAME" dengan username GitHub kamu (find & replace) -->
-
 <div align="center">
 
 <img src="assets/hero.svg" alt="Johannes terminal intro" width="100%" />
